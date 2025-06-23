@@ -1,4 +1,4 @@
-package com.mathan.neetcode.day_04;
+package com.mathan.neetcode.array_and_hashing.day_04;
 
 import java.util.Arrays;
 

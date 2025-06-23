@@ -1,4 +1,4 @@
-package com.mathan.neetcode.day_01;
+package com.mathan.neetcode.two_pointers.day_1;
 
 public class ValidAnagrams {
     public boolean isAnagram(String s, String t) {

@@ -1,4 +1,4 @@
-package com.mathan.neetcode.day_03;
+package com.mathan.neetcode.array_and_hashing.day_03;
 
 import java.util.HashMap;
 import java.util.Map;
